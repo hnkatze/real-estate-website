@@ -13,7 +13,6 @@ export const metadata: Metadata = {
   description: "Tu equipo de confianza en bienes raíces en Honduras. Encuentra tu hogar ideal con nosotros.",
   keywords:
     "bienes raíces honduras, propiedades honduras, casas tegucigalpa, apartamentos san pedro sula, terrenos honduras, venta, alquiler",
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
